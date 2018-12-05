@@ -10,7 +10,7 @@ import org.openqa.selenium.WebElement;
 import com.flipkart.utills.BasicUtill;
 
 public class HomePage extends BasicUtill {
-	String ssPath = "flipkart/screenshots/screenshot.png";
+	String ssPath = "flipkart/screenshot.png";
 
 	public void logout() {
 
