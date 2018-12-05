@@ -10,7 +10,7 @@ import org.openqa.selenium.WebElement;
 import com.flipkart.utills.BasicUtill;
 
 public class HomePage extends BasicUtill {
-	String ssPath = "flipkart/screenshots";
+	String ssPath = "flipkart/screenshots/screenshot.png";
 
 	public void logout() {
 
@@ -47,7 +47,7 @@ public class HomePage extends BasicUtill {
 		String titleText2 = title2.getText();
 		Thread.sleep(1000);
 		titleText2.contains("Moto");
-		Thread.sleep(3000);
+		Thread.sleep(2000);
 		WebElement clear_All = driver.findElement(By.xpath("(//span[text()='Clear all'])[1]"));
 		clear_All.click();
 		Thread.sleep(2000);

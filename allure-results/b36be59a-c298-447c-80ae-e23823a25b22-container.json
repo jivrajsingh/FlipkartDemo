@@ -1,0 +1,1 @@
+{"uuid":"b36be59a-c298-447c-80ae-e23823a25b22","name":"com.flipkart.testcases.Login_Test.loginTest","description":"","start":1544016202040,"stop":1544016205516,"children":["6e01cc78-c3d7-4193-8277-5fb8296fe653"],"befores":[{"name":"loginTest","status":"passed","stage":"finished","description":"","start":1544016202040,"stop":1544016205505}]}

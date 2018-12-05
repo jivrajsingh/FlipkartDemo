@@ -1,0 +1,1 @@
+{"uuid":"d54a7ffc-cfdb-4824-9923-49b0cdd5b143","name":"com.flipkart.testcases.Login_Test.logoutFromApps","description":"","start":1544016241294,"stop":1544016241294,"children":["6e01cc78-c3d7-4193-8277-5fb8296fe653"],"afters":[{"name":"logoutFromApps","status":"passed","stage":"finished","description":"","start":1544016241294,"stop":1544016241294}]}
